@@ -1,0 +1,24 @@
+@charset "UFT-8";
+body{
+    background-color: black;
+    text-align: justify;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+   color: rgb(0, 197, 10);
+}
+h2{
+    color: rgb(0, 197, 10);
+}
+h3{
+    color: rgb(0, 197, 10);
+    font-size: 25px;
+}
+p{
+  color: rgb(0, 197, 10);
+  font-size: 20px;
+}
+a{
+    color: rgb(0, 135, 197);
+  font-size: 30px;
+}
